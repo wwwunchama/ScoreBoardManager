@@ -1,0 +1,3 @@
+main: scoreboardmanage.ScoreBoardManage
+name: ScoreBoardManager
+version: 1.0
